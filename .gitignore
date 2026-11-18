@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.idea/
+.idea_backup/
+dist/
+build/
+*.log
